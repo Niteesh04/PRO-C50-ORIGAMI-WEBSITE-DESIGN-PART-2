@@ -30,3 +30,9 @@ body{
     font-family: fantasy;
     
 }
+a:link{
+color:white;
+}
+a:visited{
+color:white;
+}
